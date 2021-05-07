@@ -1,0 +1,4 @@
+# clone命令
+git clone https://github.com/openwhu/OpenWHU.git
+# pull更新
+git pull
